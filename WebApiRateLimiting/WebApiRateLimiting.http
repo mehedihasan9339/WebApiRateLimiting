@@ -1,0 +1,6 @@
+@WebApiRateLimiting_HostAddress = http://localhost:5219
+
+GET {{WebApiRateLimiting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
